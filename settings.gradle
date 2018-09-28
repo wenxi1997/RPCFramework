@@ -1,0 +1,5 @@
+rootProject.name = 'RPC'
+include 'RPCServer'
+include 'RPClient'
+include 'RPCore'
+

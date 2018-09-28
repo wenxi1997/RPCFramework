@@ -1,0 +1,12 @@
+
+group 'zwx.rpc'
+version '1.0-SNAPSHOT'
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+}
